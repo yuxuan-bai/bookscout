@@ -1,5 +1,4 @@
-<img width="571" height="324" alt="BookScout-run" src="https://github.com/user-attachments/assets/b9724700-2ae8-41aa-932b-0c5bcd3d83b6" /># BookScout
-
+#BookScout
 A Python scraper for [Books to Scrape](https://books.toscrape.com/). Enter how many pages to scrape, a maximum price, and a minimum rating. It compares sequential and concurrent scraping, then prints the cheapest matching books.
 
 ## Run
