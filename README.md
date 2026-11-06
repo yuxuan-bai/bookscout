@@ -1,4 +1,4 @@
-# BookScout
+<img width="571" height="324" alt="BookScout-run" src="https://github.com/user-attachments/assets/b9724700-2ae8-41aa-932b-0c5bcd3d83b6" /># BookScout
 
 A Python scraper for [Books to Scrape](https://books.toscrape.com/). Enter how many pages to scrape, a maximum price, and a minimum rating. It compares sequential and concurrent scraping, then prints the cheapest matching books.
 
@@ -27,5 +27,4 @@ One run with 10 pages returned the same 200 books in both modes:
 | Concurrent | 1.659 s |
 
 ## Screenshot
-
-![BookScout running in the terminal](../BookScout-run.png)
+<img width="571" height="324" alt="BookScout-run" src="https://github.com/user-attachments/assets/1afc0a30-956f-40eb-8e4f-332c4a041a34" />
